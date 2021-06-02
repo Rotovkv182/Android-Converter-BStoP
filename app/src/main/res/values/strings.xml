@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConvertBooksSizetoLists</string>
+    <string name="summbtn">Посчитать</string>
+    <string name="countpages">Введите кол-во страниц в книге</string>
+</resources>
